@@ -1,0 +1,11 @@
+model saved at:/Users/harshi/Desktop/IITJ/Sem_4/mlops_major_22/models/SVM_{'gamma': 0.0005, 'C': 0.7}.joblib
+test accuracy:0.95
+test macro-f1: 0.9499861345939778model saved at:/Users/harshi/Desktop/IITJ/Sem_4/mlops_major_22/models/SVM_{'gamma': 0.0005, 'C': 0.7}.joblib
+test accuracy:0.9888888888888889
+test macro-f1: 0.9888506077136571model saved at:/Users/harshi/Desktop/IITJ/Sem_4/mlops_major_22/models/SVM_{'gamma': 0.0005, 'C': 0.7}.joblib
+test accuracy:0.9814814814814815
+test macro-f1: 0.9814815382894592model saved at:/Users/harshi/Desktop/IITJ/Sem_4/mlops_major_22/models/SVM_{'gamma': 0.0005, 'C': 0.7}.joblib
+test accuracy:0.9840425531914894
+test macro-f1: 0.9835291696993824model saved at:/Users/harshi/Desktop/IITJ/Sem_4/mlops_major_22/models/SVM_{'gamma': 0.0005, 'C': 0.7}.joblib
+test accuracy:0.9832402234636871
+test macro-f1: 0.9832587965343038

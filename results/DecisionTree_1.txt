@@ -1,0 +1,16 @@
+
+model saved at:/Users/harshi/Desktop/IITJ/Sem_4/mlops_major_22/models/DecisionTree_100.joblib
+test accuracy:0.7722222222222223
+test macro-f1: 0.7727275399383298
+model saved at:/Users/harshi/Desktop/IITJ/Sem_4/mlops_major_22/models/DecisionTree_100.joblib
+test accuracy:0.8055555555555556
+test macro-f1: 0.8027055760394183
+model saved at:/Users/harshi/Desktop/IITJ/Sem_4/mlops_major_22/models/DecisionTree_100.joblib
+test accuracy:0.8024691358024691
+test macro-f1: 0.799819245714609
+model saved at:/Users/harshi/Desktop/IITJ/Sem_4/mlops_major_22/models/DecisionTree_100.joblib
+test accuracy:0.8297872340425532
+test macro-f1: 0.8241897799416166
+model saved at:/Users/harshi/Desktop/IITJ/Sem_4/mlops_major_22/models/DecisionTree_100.joblib
+test accuracy:0.8156424581005587
+test macro-f1: 0.8131703375612517
